@@ -3,7 +3,7 @@
 
 **Question 3. Introduce ONE selected “Data Set” from the [awesome-datascience] GitHub with its
 URL and describe its potential applications and values.**
->URL: https://data.unicef.org/
+>URL: [UNICEF Dataset](https://data.unicef.org/)
 
 >UNICEF datasets is an open-source platform that combines data from both public and private sectors and generates awareness based on algorithms. UNICEF is publishing datasets, interactive dashboards and tables on various aspects like education, nutrition, breastfeeding, stillbirth and displacement of children etc around the world. UNICEF datasets can generate critical insights into the healthcare needs of vulnerable pregnant women and newborn babies. This data is used by local communities and governments to take immediate action and get more funding in the areas that children are more affected.
 
@@ -22,7 +22,7 @@ URL and describe its potential applications and values.**
 **Question 4. Introduce ONE selected “free-data-science-book” with its URL and author/institute
 information. Explain briefly why you are interested in this book.**
 
->URL: https://www.getty.edu/publications/intrometadata/
+>URL: [Introduction to Metadata](https://www.getty.edu/publications/intrometadata/)
 
 >Book Name: Introduction to Metadata
 
