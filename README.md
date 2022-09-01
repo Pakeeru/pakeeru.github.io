@@ -32,5 +32,5 @@ information. Explain briefly why you are interested in this book.**
 
 >Introduction to Metadata is a revised edition which was first published in the year 1998. This book provides us with basics of metadata, its types, characteristics and roles. The book talks about the emergence of phenomena such as linked open data in the past few years and its significance in the Semantic Web. Metadata and its relation with the web resources, usage of Metadata by search engines is discussed in the book. The book highlights the difference between visible web and hidden web.
 
->What I liked about the book is that, just like the Metadata the book is also a collaborative effort from many professionals which is why we can see different perspectives in different chapters. 
+>What I liked about the book is that, just like the Metadata, the book is also a collaborative effort from many professionals which is why we can see different perspectives in different chapters. 
 
